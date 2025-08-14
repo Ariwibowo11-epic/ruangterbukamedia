@@ -774,7 +774,7 @@ $("#webspeach").click(function(event) {
     var listdatagroup = cekclassactive(groups, 'webspeach');
     if (listdatagroup.getclass.classactiv == "active") {
         localStorage.setItem("permisvoice", "on");
-        speach("Selamat Datang Di Website LPK Midzuki Sekai Indonesia");
+        speach("Selamat Datang Di Website Ruang Terbuka Media");
     } else {
         localStorage.setItem("permisvoice", "off");
     }

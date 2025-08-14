@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PROFIL BADAN on Ruang Terbuka Media</title>
+    <link>//localhost:1313/profil-badan/</link>
+    <description>Recent content in PROFIL BADAN on Ruang Terbuka Media</description>
+    <generator>Hugo</generator>
+    <language>id</language>
+    <lastBuildDate>Thu, 01 Aug 2024 05:22:45 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/profil-badan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Profil Badan</title>
+      <link>//localhost:1313/profil-badan/profil-badan/</link>
+      <pubDate>Thu, 01 Aug 2024 05:22:45 +0000</pubDate>
+      <guid>//localhost:1313/profil-badan/profil-badan/</guid>
+      <description>&lt;div style=&#34;display: flex; flex-wrap: wrap; gap: 30px; width: 100%; margin-top: 40px;&#34;&gt;&#xA;  &lt;div style=&#34;flex: 1 1 calc(33.333% - 20px); box-sizing: border-box; height: 150px; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; justify-content: center;&#34; class=&#34;border-customGreen bg-customGreen rounded-2xl dark:bg-gray-700 dark:text-white&#34;&gt;&#xA;      &lt;i class=&#34;fas fa-history text-white&#34; style=&#34;margin-bottom: 5px; font-size: 40px;&#34;&gt;&lt;/i&gt;&#xA;      &lt;span style=&#34;font-size: 12pt; font-family: &#39;Poppins&#39;, sans-serif;&#34; class=&#34;text-white&#34;&gt;Profil&lt;/span&gt;&#xA;    &lt;button onclick=&#34;window.location.href=&#39;//localhost:1313/master-profil-badan/profil-lembaga&#39;&#34; class=&#34;px-2.5 py-1.5 bg-transparent text-white border border-white rounded-xl text-base cursor-pointer transition-colors duration-300 hover:bg-white hover:text-customGreen dark:hover:text-gray-700&#34;&gt;Lihat Detail &lt;i class=&#34;fas fa-arrow-right ml-1.5&#34;&gt;&lt;/i&gt;&lt;/button&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div style=&#34;flex: 1 1 calc(33.333% - 20px); box-sizing: border-box; height: 150px; margin-bottom: 20px; display: flex; flex-direction: column; align-items: center; justify-content: center;&#34; class=&#34;border-customGreen bg-customGreen rounded-2xl dark:bg-gray-700 dark:text-white&#34;&gt;&#xA;      &lt;i class=&#34;fas fa-bullseye text-white&#34; style=&#34;margin-bottom: 5px; font-size: 40px;&#34;&gt;&lt;/i&gt;&#xA;      &lt;span style=&#34;font-size: 12pt; font-family: &#39;Poppins&#39;, sans-serif;&#34; class=&#34;text-white&#34;&gt;Visi Misi&lt;/span&gt;&#xA;    &lt;button onclick=&#34;window.location.href=&#39;//localhost:1313/master-profil-badan/visi-misi&#39;&#34; class=&#34;px-2.5 py-1.5 bg-transparent text-white border border-white rounded-xl text-base cursor-pointer transition-colors duration-300 hover:bg-white hover:text-customGreen dark:hover:text-gray-700&#34;&gt;Lihat Detail &lt;i class=&#34;fas fa-arrow-right ml-1.5&#34;&gt;&lt;/i&gt;&lt;/button&gt;&#xA;  &lt;/div&gt;&#xA;&lt;style&gt;&#xA;@media (max-width: 1024px) { &#xA;  div[style*=&#34;display: flex; flex-wrap: wrap;&#34;] &gt; div {&#xA;    flex: 1 1 100%; &#xA;    margin-bottom: 20px;&#xA;    padding: 20px 0;&#xA;    text-align: center;&#xA;  }&#xA;}&#xA;&#xA;@media (max-width: 768px) { &#xA;  div[style*=&#34;display: flex; flex-wrap: wrap;&#34;] {&#xA;    flex-direction: column; &#xA;    align-items: center; &#xA;  }&#xA;&#xA;  div[style*=&#34;display: flex; flex-wrap: wrap;&#34;] &gt; div {&#xA;    flex: none; &#xA;    width: calc(70% - 30px); &#xA;    height: 150px; &#xA;    max-width: calc(70% - 30px);&#xA;    margin-bottom: 20px;&#xA;    padding: 20px 0;&#xA;  }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

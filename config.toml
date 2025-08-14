@@ -1,0 +1,150 @@
+baseurl = ""
+metaDataFormat = "yaml"
+title = "Ruang Terbuka Media"
+theme = "blist"
+DefaultContentLanguage = "id"
+DefaultContentLanguageInSubdir = false
+contentDir = "content" #English"
+weight = 1
+languageName = "Indonesia"
+[languages.id.params]
+introTitle = "Ruang Terbuka Media"
+introSubtitle = "Ruang Terbuka Media adalah wadah atau platform yang menyediakan ruang bebas untuk berekspresi, berdiskusi, dan berbagi informasi secara terbuka"
+introPhoto = "/picture.jpg"
+logo = "/logoruangterbuka.png"
+name = "Top Post"
+url = "/en/blog/emoji-support/"
+weight = 4
+[params]
+domain = ''
+phone = "087826919172"
+address = "Kabupaten Kendal, Jawa Tengah 51356"
+email = "ruangterbukamedia@gmail.com"
+darkModeToggle = true
+enableSearch = true
+searchKeys = "["
+copyright = "Copyright © 2024"
+favicon = "/favicon.svg"
+ascentColor = "bg-customGreen"
+frontBundle = "Berita"
+hideMeta = false
+hideOtherLanguages = false
+toc = true
+hidePageThumbnail = false
+introTitle = "Ruang Terbuka Media"
+introSubtitle = "Ruang Terbuka Media adalah wadah atau platform yang menyediakan ruang bebas untuk berekspresi, berdiskusi, dan berbagi informasi secara terbuka."
+[params.comments]
+system = "giscus"
+repo = ""
+repoid = ""
+category = ""
+categoryid = ""
+mapping = ""
+strict = ""
+reactionsenabled = ""
+emitmetadata = ""
+inputposition = ""
+theme = ""
+[params.homepage.social]
+title = "Follow me"
+description = "I work on everything coding and tweet developer memes"
+[build]
+writeStats = true
+[markup]
+[markup.highlight]
+style = "dracula"
+[markup.goldmark.renderer]
+unsafe = true
+
+[[languages.id.menu.main]]
+identifier = 'beranda'
+name = "Beranda"
+url = "/"
+weight = 1
+[[languages.id.menu.main]]
+identifier = 'profil'
+name = "Profil"
+weight = 2
+
+[[languages.id.menu.main]]
+identifier = 'informasi'
+name = "Informasi"
+weight = 4
+
+[[languages.id.menu.main]]
+identifier = 'publikasi'
+name = "Publikasi"
+weight = 6
+
+[[languages.id.menu.main]]
+identifier = 'sejarah'
+name = "Sejarah"
+parent = "profil badan"
+url = "/page/sejarah"
+weight = 1
+
+[[languages.id.menu.main]]
+identifier = 'berita'
+name = "Berita"
+parent = "publikasi"
+url = "/berita"
+weight = 1
+
+[[languages.id.menu.main]]
+identifier = 'profil badan'
+name = "Profil Badan"
+parent = "profil"
+url = "/profil-badan/profil-badan"
+weight = 1
+[[languages.id.menu.main]]
+identifier = 'penghargaan'
+name = "Penghargaan"
+parent = "informasi"
+url = "/penghargaan/penghargaan"
+weight = 5
+
+[[languages.id.menu.main]]
+identifier = 'kontak'
+name = "Kontak"
+parent = "informasi"
+url = "/kontak/kontak"
+weight = 1
+[[params.homepage.social.icons]]
+website = "twitter"
+url = "https://x.com/"
+[[params.homepage.social.icons]]
+website = "tiktok"
+url = "https://www.tiktok.com/"
+[[params.homepage.social.icons]]
+website = "youtube"
+url = "https://www.youtube.com/"
+[[params.homepage.social.icons]]
+website = "instagram"
+url = "https://www.instagram.com/"
+[[params.homepage.social.icons]]
+website = "facebook"
+url = "https://www.facebook.com/"
+
+[[params.running_text]]
+text = "Selamat Datang di Website Resmi Ruang Terbuka Media"
+[[params.sliders.images]]
+url = "slid0.png"
+extension = "png"
+[[params.sliders.images]]
+url = "slid.png"
+extension = "png"
+[[params.sliders.images]]
+url = "slid2.png"
+extension = "png"
+[[params.sliders.images]]
+url = "slid3.png"
+extension = "png"
+[[params.sliders.images]]
+url = "slid4.png"
+extension = "png"
+[[params.sliders.images]]
+url = "slid6.png"
+extension = "png"
+[[params.sliders.images]]
+url = "slid5.png"
+extension = "png"

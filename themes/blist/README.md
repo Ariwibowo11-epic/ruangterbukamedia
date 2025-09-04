@@ -59,7 +59,7 @@ cd themes/blist/exampleSite/
 hugo serve --themesDir ../..
 ```
 
-Then visit `https://lpkmidzukisekaiindonesia.netlify.app/` in your browser to view the example site.
+Then visit `https:///.netlify.app/` in your browser to view the example site.
 
 ## Configuring theme to a hugo website
 

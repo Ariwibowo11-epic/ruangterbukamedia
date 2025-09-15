@@ -1,7 +1,7 @@
 ---
 author: Ruang Terbuka Media
 title: "Kodim 0715/Kendal Ciptakan Rasa Aman, Ajak Elemen Masyarakat Patroli Bersama."
-date: 2025-08-13
+date: 2025-09-14
 thumbnail: /Berita/thumbnails/patdim2.jpg
 ---
 <p style="line-height: 1.1;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><img src="/images/patdim2.jpg" width="385" height="239" alt="" /></span></p>

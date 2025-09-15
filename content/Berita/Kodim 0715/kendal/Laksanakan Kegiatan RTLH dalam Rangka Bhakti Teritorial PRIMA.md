@@ -1,6 +1,6 @@
 ---
 author: Ruang Terbuka Media
-title: "odim 0715/Kendal Laksanakan Kegiatan RTLH dalam Rangka Bhakti Teritorial PRIMA Memperingati HUT ke-80 TNI dan HUT ke-75 Kodam IV/Diponegoro."
+title: "Kodim 0715/Kendal Laksanakan Kegiatan RTLH dalam Rangka Bhakti Teritorial PRIMA Memperingati HUT ke-80 TNI dan HUT ke-75 Kodam IV/Diponegoro."
 date: 2025-09-14
 thumbnail: /Berita/thumbnails/rtlhkendal.jpg
 ---

@@ -2,9 +2,9 @@
 author: Ruang Terbuka Media
 title: "Guna menciptakan rasa aman bagi masyarakat, Kodim 0715/Kendal melalui Koramil 17/Ringinarum melaksanakan patroli malam bersama Komponen Pendukung (Komduk)."
 date: 2025-09-16
-thumbnail: /Berita/thumbnails/patroli17.jpg
+thumbnail: /Berita/thumbnails/partroli17.jpg
 ---
-<p style="line-height: 1.1;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><img src="/images/patroli17.jpg" width="385" height="239" alt="" /></span></p>
+<p style="line-height: 1.1;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><img src="/images/partroli17.jpg" width="385" height="239" alt="" /></span></p>
 <p class="MsoNormal"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><span style="line-height: 107%; color: black; background: white;">
 
 Kendal – Dalam upaya menciptakan situasi yang aman dan kondusif bagi masyarakat, Koramil 17/Ringinarum Kodim 0715/Kendal melaksanakan patroli malam bersama Komponen Pendukung (Komduk) pada Selasa malam (16/9). Kegiatan ini merupakan bentuk sinergi antara TNI dan masyarakat dalam menjaga keamanan lingkungan.

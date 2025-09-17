@@ -101,7 +101,7 @@
 
     if (isYouTube) {
       const videoId = videoUrl.split('v=')[1] ? videoUrl.split('v=')[1].split('&')[0] : videoUrl.split('/').pop();
-      const embedUrl = `https://www.youtube.com/embed/${videoId}`;
+      const embedUrl = `https://www.youtube.com/@ruangterbukamediaembed/${videoId}`;
       Fancybox.show([{
         src: embedUrl,
         type: 'iframe',

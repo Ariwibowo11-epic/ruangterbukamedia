@@ -111,16 +111,16 @@ url = "/kontak/kontak"
 weight = 1
 [[params.homepage.social.icons]]
 website = "twitter"
-url = "https://x.com/"
+url = "https://x.com/Rterbukamedia"
 [[params.homepage.social.icons]]
 website = "tiktok"
 url = "https://www.tiktok.com/"
 [[params.homepage.social.icons]]
 website = "youtube"
-url = "https://www.youtube.com/"
+url = "https://www.youtube.com/@ruangterbukamedia"
 [[params.homepage.social.icons]]
 website = "instagram"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/ruangterbukamedia/"
 [[params.homepage.social.icons]]
 website = "facebook"
 url = "https://www.facebook.com/"
